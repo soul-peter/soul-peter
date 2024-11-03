@@ -4,7 +4,7 @@ Soy desarrollador de Java y otros multiples lenguajes como; C#, GDScript, C++, e
 
 **💼 Soul Development**
 
-- Actualmente estoy trabajando en Soul Development que es un equipo de desarrollo indie, especializado es crear eventos para Creadores de Contenido en Minecraft Java.
+Actualmente estoy trabajando en Soul Development que es un equipo de desarrollo indie, especializado es crear eventos para Creadores de Contenido en Minecraft Java.
  
 - Desarrollo Mods en Java.
 - Encargado de la configuración y organizacion de los **Eventos/Servidores**.
@@ -12,4 +12,4 @@ Soy desarrollador de Java y otros multiples lenguajes como; C#, GDScript, C++, e
 
  **🚀 Sobre mí**
 
-   **·** Desarrollo de Video Juegos.
+   - Desarrollo de Video Juegos.
