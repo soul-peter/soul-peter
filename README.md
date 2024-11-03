@@ -1,6 +1,6 @@
 **Bienvenido/a 👋**
 
-Soy desarrollador de Java y otros multiples lenguajes como; C#, GDScript, C++, etc.
+Soy desarrollador de Java y otros multiples lenguajes como C#, GDScript, C++, JavaScript etc.
 
 **💼 Soul Development**
 
