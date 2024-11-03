@@ -12,5 +12,5 @@ Soy desarrollador de Java y otros multiples lenguajes como; C#, GDScript, C++, e
 
  **🚀 Sobre mí**
 
-   **-** Desarrollador de Video Juegos.
-   **-** Programador
+   **·** Desarrollador de Video Juegos.
+   **·** Programador.
